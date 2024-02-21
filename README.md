@@ -17,9 +17,9 @@ My Exceptions:
 
   # Goals
 
-  1][Learn C-Language,java]<br>
-  2][Solve problems on C,java]<br>
-  3][Learn Web development]<br>
-  4][Create web projects]<br>
-  5][Learn Data Structures and Algorithms ]<br>
-  6][Solve problems on Data Structures and Algorithms]<br>
+  1]Learn C-Language,java<br>
+  2]Solve problems on C,java<br>
+  3]Learn Web development<br>
+  4]Create web projects<br>
+  5]Learn Data Structures and Algorithms<br>
+  6]Solve problems on Data Structures and Algorithms<br>
